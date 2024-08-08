@@ -71,3 +71,18 @@ p {
   font-size: 1.5rem;
   text-transform: uppercase;
 }
+
+ body {
+            font-family: Arial, sans-serif;
+        }
+        .navbar {
+            margin-bottom: 30px;
+        }
+        .main-content {
+            padding: 20px;
+        }
+        .footer {
+            background-color: #f8f9fa;
+            padding: 20px 0;
+            text-align: center;
+        }
