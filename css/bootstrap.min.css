@@ -86,3 +86,39 @@ p {
             padding: 20px 0;
             text-align: center;
         }
+
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('https://via.placeholder.com/1920x1080'); /* Replace with your background image URL */
+    background-size: cover;
+    background-attachment: fixed;
+    color: #333;
+}
+
+header {
+    background: rgba(0, 0, 0, 0.5);
+    background-size: cover;
+    padding: 40px 0;
+}
+
+h1 {
+    font-size: 3rem;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 1.75rem;
+    margin-bottom: 15px;
+}
+
+.carousel-item img {
+    height: 400px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #343a40;
+}
+
